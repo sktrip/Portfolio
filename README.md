@@ -35,7 +35,7 @@
 						<div class="inner">
 							<h3>Work Experience</h3>
               <p>  I'm a software engineer with 9+ years of experience working primarily in telecom and financial services domain.
-During my tenure, I've taken up different roles: as a Java developer, SQL developer, Senior QA engineer </p>
+During my tenure, I've taken up different roles: as a Java developer, SQL developer, Senior QA engineer , Have worked on some complex applications and hetrogeneous data sources </p>
 						
 					<ul>
 						<li>	Senior software enigineer with TATA Consultancy Services (TCS) Limited from March 2010 to June 2016</li>
@@ -57,7 +57,8 @@ During my tenure, I've taken up different roles: as a Java developer, SQL develo
 							<ul>
 							<li> I'm self motivated and very determined. </li>
 							<li> Good at analysing things.</li>
-							<li>Adaptable for the growing needs of organisations.</li>
+							<li> Adaptable to the growing needs of organisations.</li>
+							<li> Can work in a team or as an individual contributor. </li>
 							</ul>
 							</div>
 							<div class='inner'>
