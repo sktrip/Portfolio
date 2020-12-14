@@ -47,8 +47,10 @@ During my tenure, I've taken up different roles: as a Java developer, SQL develo
 		
 							<p><strong>Operating systems:</strong>    UNIX, LINUX, Windows, DOS </p>
 							<p><strong>Languages: </strong>      HTML, C, JAVA, Python, PL/SQL </p>
-							<p><strong>Tools: </strong>      Informatica, PowerCenter DVO, PL/SQL Developer, JMeter, TeraData, Ctrl-M Job Scheduler, Putty, WinSCP, SoapUI, HP Quality Center, JIRA, HP ALM, Cucumber, Maven, Jenkins, SharePoint </br>
+							<p><strong>Tools: </strong>      Informatica, PowerCenter DVO, PL/SQL Developer, JMeter, TeraData, Ctrl-M Job Scheduler, Putty, WinSCP, SoapUI, HP Quality Center, JIRA, HP ALM, Cucumber, Maven, Jenkins, SharePoint 
+							<p>
 		<a href = "https://github.com/sktrip" alt="my GITHUB link">My GitHub profile.</a>
+		</p>
 						
 							<div class='inner'>
 								<p> Good at analysing things. I'm self motivated and very determined. Adaptable for the growing needs of organisations.</p>
