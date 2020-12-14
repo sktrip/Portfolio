@@ -18,7 +18,7 @@
 
 							<!-- Logo -->
 								<a href="index.html" class="logo">
-									<span class="symbol"><img src="https://th.bing.com/th/id/OIP.TZ6IAqoL4e0TMzvQyjsbqwHaHa?w=180&h=180&c=7&o=5&dpr=1.25&pid=1.7" alt="" /></span><span class="title">Lakshmi</span>
+									<span class="symbol"><img src="https://th.bing.com/th/id/OIP.TZ6IAqoL4e0TMzvQyjsbqwHaHa?w=180&h=180&c=7&o=5&dpr=1.25&pid=1.7" alt="" /></span><span class="title"></span>
 								</a>
 						</div>
 					</header>
@@ -30,7 +30,7 @@
 							<h3>Short summary</h3>
 							
 							<p>A few words about myself. I'm Lakshmi Tripurari, mother of two hyper active kids. My interests are cooking, solving puzzles , playing chess with my son (am not so good at it, he wins all the tme :D) I love to learn new things.
-              </div>
+             
 
 						<div class="inner">
 							<h3>Work Experience</h3>
