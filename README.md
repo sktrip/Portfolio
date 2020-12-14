@@ -43,17 +43,22 @@ During my tenure, I've taken up different roles: as a Java developer, SQL develo
 					</ul>
 						</div>
 						<div class="inner">
-							<h3>Technical expertise</h3>
+							<h3>Technical skills</h3>
 		
 							<p><strong>Operating systems:</strong>    UNIX, LINUX, Windows, DOS </p>
-							<p><strong>Languages: </strong>      HTML, C, JAVA, Python, PL/SQL </p>
-							<p><strong>Tools: </strong>      Informatica, PowerCenter DVO, PL/SQL Developer, JMeter, TeraData, Ctrl-M Job Scheduler, Putty, WinSCP, SoapUI, HP Quality Center, JIRA, HP ALM, Cucumber, Maven, Jenkins, SharePoint 
+							<p><strong>Languages: </strong>      HTML, CSS, Javascript, JAVA, Python, PL/SQL </p>
+							<p><strong>Tools: </strong>      Informatica, PowerCenter DVO, PL/SQL Developer, JMeter, TeraData, Ctrl-M Job Scheduler, Putty, WinSCP, SoapUI, HP Quality Center, JIRA, HP ALM, Cucumber, Maven, Jenkins, SharePoint, GITHUB, VS Code, Pycharm, IntelliJ IDEA 
 							<p>
 		<a href = "https://github.com/sktrip" alt="my GITHUB link">My GitHub profile.</a>
 		</p>
 						
 							<div class='inner'>
-								<p> Good at analysing things. I'm self motivated and very determined. Adaptable for the growing needs of organisations.</p>
+							<h3>Transferable skills</h3>
+							<ul>
+							<li> I'm self motivated and very determined. </li>
+							<li> Good at analysing things.</li>
+							<li>Adaptable for the growing needs of organisations.</li>
+							</ul>
 							</div>
 							<div class='inner'>
 								<p> I have taken a career break after 9 and half years in IT. Now want to restart my career, as I enjoy working in IT. It gives me an opportunity to meet and interact with new people. Can share and gather ideas to improve my tech knowledge.  </p>
