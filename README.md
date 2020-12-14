@@ -1,10 +1,5 @@
 ## Welcome to My GitHub Page
 
-I'm Lakshmi Tripurari, a software engineer with 9+ years of experience working primarily in telecom and financial services domain.
-
-My portfolio spans across many tech areas, as a Java developer, SQL developer, Senior QA analyst 
-
-<!DOCTYPE HTML>
 <html>
 	<head>
 		<title>My Portfolio</title>
@@ -34,11 +29,14 @@ My portfolio spans across many tech areas, as a Java developer, SQL developer, S
 						<div class="inner">
 							<h3>Short summary</h3>
 							
-							<p>A few words about myself. I'm Lakshmi, mother of two hyper active kids. My interests are cooking, solving puzzles , playing chess with my son (am not so good at it, he wins all the tme :D) I love to learn new things.
-						</div>
+							<p>A few words about myself. I'm Lakshmi Tripurari, mother of two hyper active kids. My interests are cooking, solving puzzles , playing chess with my son (am not so good at it, he wins all the tme :D) I love to learn new things.
+              </div>
 
 						<div class="inner">
 							<h3>Work Experience</h3>
+              <p>  I'm a software engineer with 9+ years of experience working primarily in telecom and financial services domain.
+My portfolio spans across many tech areas, as a Java developer, SQL developer, Senior QA analyst </p>
+						
 					<ul>
 						<li>	Senior Test Analyst with TATA Consultancy Services (TCS) Limited from March 2010 to June 2016</li>
 						<li>	Developer with TATA Consultancy Services (TCS) Limited from Feb 2007 to February 2010</li>
@@ -60,10 +58,4 @@ My portfolio spans across many tech areas, as a Java developer, SQL developer, S
 							</div>
 
 
-					</div>
-
-
-			</div>
-
-	</body>
-</html>
+			
