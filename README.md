@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/sktrip/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Lakshmi Tripurari, a software engineer with 9+ years of experience working primarily in telecom and financial services domain.
+
+My portfolio spans across many tech areas, as a Java developer, SQL developer, Senior QA analyst 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
