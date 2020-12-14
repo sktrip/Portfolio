@@ -4,36 +4,66 @@ I'm Lakshmi Tripurari, a software engineer with 9+ years of experience working p
 
 My portfolio spans across many tech areas, as a Java developer, SQL developer, Senior QA analyst 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>My Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-### Markdown
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="https://th.bing.com/th/id/OIP.TZ6IAqoL4e0TMzvQyjsbqwHaHa?w=180&h=180&c=7&o=5&dpr=1.25&pid=1.7" alt="" /></span><span class="title">Lakshmi</span>
+								</a>
+						</div>
+					</header>
 
-```markdown
-Syntax highlighted code block
+				
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h3>Short summary</h3>
+							
+							<p>A few words about myself. I'm Lakshmi, mother of two hyper active kids. My interests are cooking, solving puzzles , playing chess with my son (am not so good at it, he wins all the tme :D) I love to learn new things.
+						</div>
 
-# Header 1
-## Header 2
-### Header 3
+						<div class="inner">
+							<h3>Work Experience</h3>
+					<ul>
+						<li>	Senior Test Analyst with TATA Consultancy Services (TCS) Limited from March 2010 to June 2016</li>
+						<li>	Developer with TATA Consultancy Services (TCS) Limited from Feb 2007 to February 2010</li>
+					</ul>
+						</div>
+						<div class="inner">
+							<h3>Technical expertise</h3>
+		
+							<p><strong>Operating systems:</strong>    UNIX, LINUX, Windows, DOS </p>
+							<p><strong>Languages: </strong>      HTML, C, JAVA, Python, PL/SQL </p>
+							<p><strong>Tools: </strong>      Informatica, PowerCenter DVO, PL/SQL Developer, JMeter, TeraData, Ctrl-M Job Scheduler, Putty, WinSCP, SoapUI, HP Quality Center, JIRA, HP ALM, Cucumber, Maven, Jenkins, SharePoint
 
-- Bulleted
-- List
+						</div>
+							<div class='inner'>
+								<p> Good at analysing things. I'm self motivated and very determined. Adaptable for the growing needs of organisations.</p>
+							</div>
+							<div class='inner'>
+								<p> I have taken a break after 9 and half years in tech. Now want to restart my career, as I enjoy working in IT. It gives me an opportunity to meet and interact with new people. Can share and gather ideas to improve my tech knowledge.  </p>
+							</div>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+					</div>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+			</div>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sktrip/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>
